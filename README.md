@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zjucz
-- 👀 I’m interested in ML/DL/CV
-- 🌱 I’m currently learning Drug Discovery
-- 📫 How to reach me:z.cao@zju.edu.cn
+- 👀 This is a sub account.
+- 📫 Main Github Repo: github.com/nuistcz
 
 <!---
 zjucz/zjucz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
