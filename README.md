@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zjucz
-- 👀 This is a sub account.
-- 📫 Main Github Repo: github.com/nuistcz
+#### Welcome
+- 👋 This is My [homepage](www.caoz.top)
+- 📫 Another [Github Repo](github.com/nuistcz)
 
 <!---
 zjucz/zjucz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
